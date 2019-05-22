@@ -1,0 +1,52 @@
+div {
+    background-color: #282c34;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    padding-bottom: 10px;
+  }
+
+
+
+address {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid white;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+img {
+    width: 30%;
+    height: auto;
+    margin: 0 auto;
+}
+
+input {
+
+  display: block;
+  margin: 10px auto;
+  width: 200px;
+  height: 35px;
+  border-radius: 5px;
+  text-align: center;
+
+}
+
+button {
+  padding: 10px;
+  width: 100px;
+  border-radius: 5px;
+}
+
+
+.friend {
+  display: flex;
+  
+}
+
+/* Clear */
